@@ -1,0 +1,60 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100%;
+    font-family: Work Sans, sans-serif;
+}
+
+.judul {
+    padding-top: 270px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.ket_login {
+    text-align: center;
+}
+
+.pil_login {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.pilihan_login {
+    font-family: inter, sans-serif;
+    align-items: center;
+    background-color: #405EA8;
+    height: 100%;
+}
+
+.tombol1 {
+    text-align: center;
+}
+
+.tombol2 {
+    text-align: center;
+    padding-bottom: 270px;
+}
+
+.button_montir {
+    font-family: Work Sans, sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    outline: none;
+    color: white;
+    background-color: #C23737;
+    height: 38px;
+    width: 305px;
+    border-radius: 8px;
+}
+
+.button_pengguna {
+    font-family: Work Sans, sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    color: white;
+    background-color: #405EA8;
+    height: 38px;
+    width: 305px;
+    border-radius: 8px;
+}
